@@ -1,0 +1,4 @@
+Git-Commit : git-commit - Record changes to the repository
+
+git commit -a : Commit all changes (Comment in editor)
+git commit -m "comment" : Commit all changes with "comment"

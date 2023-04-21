@@ -1,0 +1,3 @@
+#identification user
+git config --global user.name "Gérard Menvuça"
+git config --global user.email "super.gege@wanadold.fr"
