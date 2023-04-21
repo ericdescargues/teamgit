@@ -1,0 +1,3 @@
+#Syntaxe commande git-checkout 
+#Sert à passer sur la branche <nom-de-la-branche>
+git checkout <nom-de-la-branche>
