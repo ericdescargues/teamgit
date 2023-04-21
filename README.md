@@ -1,6 +1,6 @@
 #### TeamGit
 
-Ce repository a pour objectif de publier et partager des fiches récapitulalives sur qielques commandes principales de Git :
+Ce repository a pour objectif de publier et partager des fiches récapitulalives sur quelques commandes principales de Git :
 
 * git status
 * git log
