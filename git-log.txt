@@ -1,0 +1,1 @@
+* git log pour afficher tout l'historique
